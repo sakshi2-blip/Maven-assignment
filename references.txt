@@ -1,0 +1,14 @@
+Maven Official Docs
+https://maven.apache.org/
+
+Maven Dependency Search
+https://mvnrepository.com/
+
+Dependency Scope Guide
+https://maven.apache.org/guides/introduction/introduction-to-dependency-mechanism.html
+
+Maven Jar Plugin
+https://maven.apache.org/plugins/maven-jar-plugin/
+
+Spring Repository
+https://repo.spring.io/
